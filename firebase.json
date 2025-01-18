@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "gagesblog",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
